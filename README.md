@@ -1,2 +1,8 @@
 # Breast-Cancer-Classification-ML
-Diagnostic system to classify breast tumors as Malignant or Benign using the WDBC dataset. Applied StandardScaler to normalize 30+ medical features for optimized training. Compared Random Forest and SVC models, using Confusion Matrices to minimize false-negative rates. Designed to improve reliability in medical AI screening
+Project Overview :
+Developed during my internship at Sristi Technologies, this project classifies breast tumors as Malignant or Benign. It focuses on high-precision medical diagnostics using supervised learning.
+
+Technical Workflow :
+* Data Scaling: Used StandardScaler to normalize 30+ features like radius, texture, and perimeter.
+* Model Selection: Compared Random Forest and Support Vector Classifier (SVC) to find the most reliable architecture.
+* Evaluation: Utilized Confusion Matrices and Classification Reports to ensure a low false-negative rate
