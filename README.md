@@ -1,8 +1,23 @@
 # Breast-Cancer-Classification-ML
-Project Overview :
-Developed during my internship at Sristi Technologies, this project classifies breast tumors as Malignant or Benign. It focuses on high-precision medical diagnostics using supervised learning.
 
-Technical Workflow :
-* Data Scaling: Used StandardScaler to normalize 30+ features like radius, texture, and perimeter.
-* Model Selection: Compared Random Forest and Support Vector Classifier (SVC) to find the most reliable architecture.
-* Evaluation: Utilized Confusion Matrices and Classification Reports to ensure a low false-negative rate
+A Machine Learning project developed to classify breast cancer tumors as Malignant or Benign based on clinical diagnostic features. This project highlights a complete ML pipeline—from data preprocessing and statistical analysis to model deployment using interactive widgets.
+
+# Key Features
+* Binary Classification: Predicts tumor type using high-dimensional medical data.
+* Model Comparison: Evaluates performance using Support Vector Classifier (SVC) and Logistic Regression.
+* Feature Scaling: Implemented StandardScaler to ensure all 30+ medical features are on the same scale for better accuracy.
+* Interactive Prediction: Includes a built-in UI using IPyWidgets, allowing users to manually input values or upload files to get real-time predictions.
+* Performance Metrics: Evaluated using Confusion Matrix, Classification Report, and Accuracy Score.
+
+# Tech Stack
+* Language: Python
+* Libraries: Scikit-learn, Pandas, NumPy
+* Visualization: Matplotlib, Seaborn
+* Deployment : IPyWidgets
+
+# Dataset Overview
+The dataset includes 30 clinical features 
+- Mean Texture
+- Mean Smoothness
+- Worst Perimeter
+- Area Error
