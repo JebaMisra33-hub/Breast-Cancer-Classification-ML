@@ -22,4 +22,4 @@ The dataset includes 30 clinical features
 - Worst Perimeter
 - Area Error
 
-[Confusion Matrix] = 
+[Confusion Matrix] - https://github.com/JebaMisra33-hub/Breast-Cancer-Classification-ML/blob/main/confusion_matrix_OP.jpeg?raw=true
