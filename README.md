@@ -21,3 +21,5 @@ The dataset includes 30 clinical features
 - Mean Smoothness
 - Worst Perimeter
 - Area Error
+
+[Confusion Matrix] = 
